@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+3:I[8954,[],""]
+4:I[5640,[],""]
+13:I[7698,[],""]
+:HL["/_next/static/css/d62c57fcb99d3251.css","style"]
+:HL["/_next/static/css/d122cc01ae7546c0.css","style"]
+2:T4e6,{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Gosia Seefeld",
+  "@id": "https://gosia-seefeld.github.io/#person",
+  "url": "https://gosia-seefeld.github.io",
+  "jobTitle": "Senior Front-End Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://moonlanderindustries.com/#organization",
+    "name": "Moonlander Industries",
+    "url": "https://moonlanderindustries.com"
+  },
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "@id": "https://signagerocket.com/#organization",
+      "name": "Signage Rocket",
+      "url": "https://signagerocket.com"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://webiqlimited.co.uk/#organization",
+      "name": "WebIQ",
+      "url": "https://webiqlimited.co.uk"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://stronywwwlondyn.co.uk/#organization",
+      "name": "Strony WWW Londyn",
+      "url": "https://stronywwwlondyn.co.uk"
+    }
+  ],
+  "knowsAbout": [
+    "React",
+    "JavaScript",
+    "AngularJS",
+    "UI/UX",
+    "CSS",
+    "Digital Signage",
+    "Front-End Development"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/gosia-seefeld/",
+    "https://github.com/gosia-seefeld",
+    "https://x.com/gosia_seefeld"
+  ]
+}0:{"P":null,"b":"xRc1jHTuCo8ZMkCfjSGtW","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d62c57fcb99d3251.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[[["$","h1",null,{"className":"page_srOnly__O_3lC","children":"Gosia Seefeld — CEO & Co-Founder, London"}],["$","div",null,{"className":"page_stars__IfV3K","id":"stars"}],["$","div",null,{"className":"page_nebula1__XAYrB"}],["$","div",null,{"className":"page_nebula2__ssNZj"}],["$","main",null,{"className":"page_content__kDoxQ","children":[["$","div",null,{"className":"page_name__eOmhd","children":"Gosia Seefeld"}],["$","p",null,{"className":"page_role__kBGJa","children":"Senior Front-End Engineer"}],["$","p",null,{"className":"page_subtitle__iAJUg","children":"London, UK"}],["$","p",null,{"className":"page_quip__CDOoW","children":"Writing CSS, co-founding companies, perfecting the art of the raised eyebrow."}],["$","div",null,{"className":"page_sectionLabel__leOgg","children":"Projects"}],["$","div",null,{"className":"page_projects__Vzd49","children":[["$","a","https://moonlanderindustries.com",{"href":"https://moonlanderindustries.com","className":"page_project__3MOhD","children":["$L5","$L6","$L7"]}],"$L8","$L9","$La"]}],"$Lb","$Lc","$Ld","$Le"]}],"$Lf"],["$L10"],"$L11"]}],{},null,false]},null,false],"$L12",false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+14:I[2051,[],"OutletBoundary"]
+16:I[6658,[],"AsyncMetadataOutlet"]
+18:I[2051,[],"ViewportBoundary"]
+1a:I[2051,[],"MetadataBoundary"]
+1b:"$Sreact.suspense"
+5:["$","div",null,{"className":"page_projectName__hNFKk","children":"Moonlander Industries"}]
+6:["$","div",null,{"className":"page_projectDesc__2lmu6","children":"Platform engineering & digital signage"}]
+7:["$","div",null,{"className":"page_projectYear__CjHBK","children":["Since ","2019"]}]
+8:["$","a","https://signagerocket.com",{"href":"https://signagerocket.com","className":"page_project__3MOhD","children":[["$","div",null,{"className":"page_projectName__hNFKk","children":"Signage Rocket"}],["$","div",null,{"className":"page_projectDesc__2lmu6","children":"Cloud digital signage platform"}],["$","div",null,{"className":"page_projectYear__CjHBK","children":["Since ","2016"]}]]}]
+9:["$","a","https://webiqlimited.co.uk",{"href":"https://webiqlimited.co.uk","className":"page_project__3MOhD","children":[["$","div",null,{"className":"page_projectName__hNFKk","children":"WebIQ"}],["$","div",null,{"className":"page_projectDesc__2lmu6","children":"Web design & development studio"}],["$","div",null,{"className":"page_projectYear__CjHBK","children":["Since ","2010"]}]]}]
+a:["$","a","https://stronywwwlondyn.co.uk",{"href":"https://stronywwwlondyn.co.uk","className":"page_project__3MOhD","children":[["$","div",null,{"className":"page_projectName__hNFKk","children":"Strony WWW Londyn"}],["$","div",null,{"className":"page_projectDesc__2lmu6","children":"Strony internetowe dla Polaków w UK"}],["$","div",null,{"className":"page_projectYear__CjHBK","children":["Since ","2012"]}]]}]
+b:["$","div",null,{"className":"page_tech____gRa","children":[["$","span","React",{"className":"page_techPill__fUO1G","children":"React"}],["$","span","JavaScript",{"className":"page_techPill__fUO1G","children":"JavaScript"}],["$","span","AngularJS",{"className":"page_techPill__fUO1G","children":"AngularJS"}],["$","span","UI/UX",{"className":"page_techPill__fUO1G","children":"UI/UX"}],["$","span","CSS",{"className":"page_techPill__fUO1G","children":"CSS"}],["$","span","Front-End",{"className":"page_techPill__fUO1G","children":"Front-End"}]]}]
+c:["$","div",null,{"className":"page_sectionLabel__leOgg","children":"Elsewhere"}]
+d:["$","div",null,{"className":"page_links__qE4Ea","children":[["$","a","https://github.com/gosia-seefeld",{"href":"https://github.com/gosia-seefeld","className":"page_link__36MaQ","children":"GitHub"}],["$","a","https://www.linkedin.com/in/gosia-seefeld/",{"href":"https://www.linkedin.com/in/gosia-seefeld/","className":"page_link__36MaQ","children":"LinkedIn"}],["$","a","https://x.com/gosia_seefeld",{"href":"https://x.com/gosia_seefeld","className":"page_link__36MaQ","children":"X / Twitter"}]]}]
+e:["$","p",null,{"className":"page_note__eFpMG","children":"Built with strong opinions and stronger tea."}]
+f:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            var c = document.getElementById('stars');\n            for (var i = 0; i < 120; i++) {\n              var s = document.createElement('div');\n              s.className = 'page_star__v4NEN';\n              s.style.left = Math.random() * 100 + '%';\n              s.style.top = Math.random() * 100 + '%';\n              s.style.setProperty('--dur', (8 + Math.random() * 12) + 's');\n              s.style.setProperty('--delay', (Math.random() * 8) + 's');\n              s.style.setProperty('--peak', (0.08 + Math.random() * 0.4).toFixed(2));\n              if (Math.random() > 0.9) { s.style.width = '2px'; s.style.height = '2px'; }\n              c.appendChild(s);\n            }\n          "}}]
+10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d122cc01ae7546c0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","$L14",null,{"children":["$L15",["$","$L16",null,{"promise":"$@17"}]]}]
+12:["$","$1","h",{"children":[null,[["$","$L18",null,{"children":"$L19"}],null],["$","$L1a",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1b",null,{"fallback":null,"children":"$L1c"}]}]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:null
+17:{"metadata":[["$","title","0",{"children":"Gosia Seefeld — Senior Front-End Engineer"}],["$","meta","1",{"name":"description","content":"Senior Front-End Engineer. Co-Founder of Moonlander Industries, Signage Rocket, WebIQ. London, UK."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","meta","3",{"name":"theme-color","content":"#060510"}],["$","link","4",{"rel":"canonical","href":"https://gosia-seefeld.github.io/"}],["$","meta","5",{"property":"og:title","content":"Gosia Seefeld — Senior Front-End Engineer"}],["$","meta","6",{"property":"og:description","content":"Senior Front-End Engineer. Co-Founder of Moonlander Industries, Signage Rocket, WebIQ. London, UK."}],["$","meta","7",{"property":"og:url","content":"https://gosia-seefeld.github.io/"}],["$","meta","8",{"property":"og:site_name","content":"Gosia Seefeld"}],["$","meta","9",{"property":"og:locale","content":"en_GB"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Gosia Seefeld — Senior Front-End Engineer"}],["$","meta","13",{"name":"twitter:description","content":"Senior Front-End Engineer. Co-Founder of Moonlander Industries, Signage Rocket, WebIQ. London, UK."}]],"error":null,"digest":"$undefined"}
+1c:"$17:metadata"
